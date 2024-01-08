@@ -2512,3 +2512,8 @@ deploy:
 - ttl: 1
   type: A
   value: 178.62.4.201
+
+`:
+- ttl: 1
+  type: CNAME
+  value: averseabfun.github.io/bloomington-hackclub
